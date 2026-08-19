@@ -18,4 +18,4 @@ This project was written using only:
 
 ### Available on gh-pages:
 
-https://l1ght0.github.io/Chess/
+https://pavelloginov.github.io/Chess/
